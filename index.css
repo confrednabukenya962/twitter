@@ -1,0 +1,75 @@
+.inner1{
+    
+    height: 100%;
+    background-image: url(tt.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    flex-basis: 50%;
+    padding: 200px 100px;
+    font-size: 30px;
+    color: white;
+    
+
+}
+
+.inner2{
+    
+    
+    flex-basis: 50%;
+     /*padding-left:80px ;
+     padding-bottom: 10px;*/
+     margin-left: 100px;
+     padding-top: 80px;
+
+    
+  
+
+}
+.main{
+    display: flex;
+    height:150px;
+    
+}
+.lower{
+   border-radius:50px; 
+   background-color:blue;
+   border-color:white;
+   padding:10px,20px;
+   color: rgb(26, 161, 206);
+   height: 25px;
+   
+}
+.butin{
+    border-radius: 12px;
+    background-color:rgb(47, 174, 216);
+    padding: 10px;
+    width: 250px;
+    margin-bottom: 5%;
+}
+.login{
+    border-radius: 12px;
+    background-color: rgb(252, 240, 240);
+    border:rgb(47, 174, 216) solid 1px;
+    padding: 10px;
+    width: 250px;
+}
+.image{
+    padding-right: 120px;
+    margin-right: 10px;
+}
+ul{
+    list-style-type: none;
+
+}
+ .but2{
+     border-radius: 5px;
+     box-shadow: 5px;
+     border-color:rgb(28, 180, 231);
+ }
+ .lower2{
+     border-radius:550px;
+     width: 50px;
+     background-color: blue;
+     text-emphasis-color: white;
+ }
+ 
